@@ -13,13 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Jim Deng
 **Backend Engineer | AIGC Enthusiast**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jimdengdev&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+## 🛠️ Tech Arsenal
+- **Core Languages**: Go, Python, C++, Java
+- **Infrastructure**: Docker, Kubernetes, CI/CD
+- **Databases**: MySQL, Redis, MongoDB, Elasticsearch
+- **Specialization**: 
+  - Building high-performance backend services
+  - Developing RAG (Retrieval-Augmented Generation) agent systems
+  - Creating Python automation/scripting solutions
 
-I'm a backend developer passionate about building robust and efficient systems. My main development languages are Go and C++ , which I use for business logic and backend services. I also enjoy scripting and working on agent projects with Python , and occasionally develop in Java .
-
+## 🚀 Current Projects
 I'm deeply interested in AIGC (AI Generated Content) and will soon share new technologies and insights in this field. Feel free to connect or collaborate!
 
 - Read more about my [Blog](https://jimdeng.com/)
