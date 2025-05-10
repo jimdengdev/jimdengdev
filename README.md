@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jimdengdev/jimdengdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi I'm JimDeng 👋
-
+# 👋 Hi, I'm [Your Name]  
+**Backend Engineer | AIGC Enthusiast**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jimdengdev&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-A full-stack developer, good at data visualization and front-end development, now working on leveraging technology into the financial services. 
+I'm a backend developer passionate about building robust and efficient systems. My main development languages are Go and C++ , which I use for business logic and backend services. I also enjoy scripting and working on agent projects with Python , and occasionally develop in Java .
 
-Blogger, Cat lover, Lifelong learner. 😻
+I'm deeply interested in AIGC (AI Generated Content) and will soon share new technologies and insights in this field. Feel free to connect or collaborate!
 
 - Read more about my [Blog](https://jimdeng.com/)
