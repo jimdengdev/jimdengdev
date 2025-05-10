@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   - Creating Python automation/scripting solutions
 
 ### 🚀 Doing
-- I'm deeply interested in AIGC (AI Generated Content) and will soon share new technologies and insights in this field. Feel free to connect or collaborate!
+- I'm deeply interested in AIGC (AI Generated Content) and share new technologies and insights in this field. Feel free to connect or collaborate!
 - Read more about my [Blog](https://jimdeng.com/)
+- Ping me by [Email](mailto:jimdengdev@qq.com)
 
