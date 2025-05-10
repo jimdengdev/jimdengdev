@@ -27,7 +27,6 @@ Here are some ideas to get you started:
   - Developing RAG (Retrieval-Augmented Generation) agent systems
   - Creating Python automation/scripting solutions
 
-## 🚀 Current Projects
-I'm deeply interested in AIGC (AI Generated Content) and will soon share new technologies and insights in this field. Feel free to connect or collaborate!
-
+## 🚀 Doing
+- I'm deeply interested in AIGC (AI Generated Content) and will soon share new technologies and insights in this field. Feel free to connect or collaborate!
 - Read more about my [Blog](https://jimdeng.com/)
